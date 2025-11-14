@@ -9,7 +9,6 @@ This is a portfolio that certainly showcases my data analytics and visualization
 ## 🧠 Featured Projects
 
 | Project | Tools | Description |
-
 1.Superstore Sales Dashboard
 ---
 
