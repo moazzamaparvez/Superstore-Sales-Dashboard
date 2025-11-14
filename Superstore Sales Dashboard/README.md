@@ -13,7 +13,7 @@ This project reflects a complete analytics workflow — from raw data to final i
 
 
 
-## **🛠️ Tools Used**
+## ** Tools Used**
 - **Microsoft Excel**  
   - PivotTables  
   - PivotCharts  
@@ -94,4 +94,5 @@ This project highlights my ability to:
 - Use slicers to make reports dynamic  
 - Identify key business insights  
 - Analyze sales and profit across multiple dimensions  
+
 
