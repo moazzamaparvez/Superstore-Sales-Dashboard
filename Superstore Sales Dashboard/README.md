@@ -69,12 +69,6 @@ Both date fields were cleaned and converted to proper date formats:
 - Order Date  
 - Ship Date  
 
-Additionally, a new field was created for trend analysis:
-- **Order Month** → `=TEXT([@[Order Date]], "mmm")`  
-
-This made monthly insights easier to extract.
-
-
 ### **4️. Final Validation Checks**
 Before analysis, the dataset was reviewed for:
 - Missing or invalid values  
@@ -94,6 +88,7 @@ This project highlights my ability to:
 - Use slicers to make reports dynamic  
 - Identify key business insights  
 - Analyze sales and profit across multiple dimensions  
+
 
 
 
